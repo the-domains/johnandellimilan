@@ -4,12 +4,13 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+typography_spectrum: 0.8888292
 color:
   saturation: 0.06053834361955523
   brandStrength: 0.3517024302855134
@@ -21,7 +22,6 @@ color:
     - '#588C8C'
     - '#011C26'
   lightness: 0.2814263254404068
-typography_spectrum: 0.8888292
 navigation:
   - id: 'http://www.milanart.work'
     url: 'http://www.milanart.work'
@@ -35,5 +35,5 @@ navigation:
     url: 'https://www.facebook.com/Milan-910719832357615/'
     name: Facebook
     type: external
-layout_spectrum: 0.8974221
+layout_spectrum: 0.2303974
 name: John and Elli Milan
