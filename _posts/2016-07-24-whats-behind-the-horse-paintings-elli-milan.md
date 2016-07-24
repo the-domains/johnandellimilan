@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-07-24T05:51:57.882Z'
+datePublished: '2016-07-24T15:07:32.978Z'
 author: []
 via: {}
-dateModified: '2016-07-24T05:50:08.318Z'
+dateModified: '2016-07-24T15:07:32.813Z'
 title: ''
 publisher: {}
 description: What’s behind the horse paintings- Elli Milan
-starred: false
 sourcePath: _posts/2016-07-24-whats-behind-the-horse-paintings-elli-milan.md
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
