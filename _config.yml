@@ -21,3 +21,7 @@ navigation:
     url: 'https://www.instagram.com/johnandellimilan/'
     name: Instagram
     type: external
+  - id: 'https://www.facebook.com/Milan-910719832357615/'
+    url: 'https://www.facebook.com/Milan-910719832357615/'
+    name: Facebook
+    type: external
