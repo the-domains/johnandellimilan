@@ -4,8 +4,15 @@
         <description><![CDATA[John and Elli Milan]]></description>
         <link>https://thegrid.ai/johnandellimilan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 05:30:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 05:52:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/johnandellimilan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aac6b193-4f6e-4c92-a901-d4e86b87c30b.jpg">]]></description>
+            <link>https://thegrid.ai/johnandellimilan/whats-behind-the-horse-paintings-elli-milan/index.html</link>
+            <guid isPermaLink="false">c5b9f45c-4856-45e4-bd61-d951286fcdb9</guid>
+            <pubDate>Sun, 24 Jul 2016 05:51:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Carriage View]]></title>
             <description><![CDATA[<article><h1>Carriage View</h1><p>Carriage View created by John and Elli Milan , July 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbb12333-4d99-411e-b3f2-c20e112ccbd9.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/johnandellimilan/69e8a1f6-175a-42e6-9aae-17e20a1890d8/index.html</link>
             <guid isPermaLink="false">69e8a1f6-175a-42e6-9aae-17e20a1890d8</guid>
             <pubDate>Sun, 24 Jul 2016 05:22:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/21f972b9-239b-4a57-9d9b-208b0cfee216.jpg">]]></description>
-            <link>https://thegrid.ai/johnandellimilan/a60eac2f-e690-45d5-81cf-88a465b2d9df/index.html</link>
-            <guid isPermaLink="false">a60eac2f-e690-45d5-81cf-88a465b2d9df</guid>
-            <pubDate>Sun, 24 Jul 2016 05:22:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
