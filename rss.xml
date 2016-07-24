@@ -4,15 +4,8 @@
         <description><![CDATA[John and Elli Milan]]></description>
         <link>https://thegrid.ai/johnandellimilan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 15:07:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 15:07:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/johnandellimilan/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/26b939ef-cdd6-4507-a5ae-31275ef2e325.jpg">]]></description>
-            <link>https://thegrid.ai/johnandellimilan/23697599-230e-497c-bb35-48120e8db11f/index.html</link>
-            <guid isPermaLink="false">23697599-230e-497c-bb35-48120e8db11f</guid>
-            <pubDate>Sun, 24 Jul 2016 15:07:47 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/16594d8f-bb01-4ca9-b2b6-9eddc3c353d6.jpg">]]></description>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/johnandellimilan/753eb18a-9337-42ee-a9b0-4185314251f0/index.html</link>
             <guid isPermaLink="false">753eb18a-9337-42ee-a9b0-4185314251f0</guid>
             <pubDate>Sun, 24 Jul 2016 15:06:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffd91348-b22c-4a61-bd9b-c5c8c0d3ac98.jpg">]]></description>
+            <link>https://thegrid.ai/johnandellimilan/d4abf1f5-ae15-403b-bf43-cfa44c6f5e6d/index.html</link>
+            <guid isPermaLink="false">d4abf1f5-ae15-403b-bf43-cfa44c6f5e6d</guid>
+            <pubDate>Sun, 24 Jul 2016 15:06:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
