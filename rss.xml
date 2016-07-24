@@ -4,7 +4,7 @@
         <description><![CDATA[John and Elli Milan]]></description>
         <link>https://thegrid.ai/johnandellimilan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 06:05:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 06:05:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/johnandellimilan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Milan Studio 2016]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/johnandellimilan/milan-studio-2016/index.html</link>
             <guid isPermaLink="false">19fe2c81-1b86-466a-80a2-01cee257c6cf</guid>
             <pubDate>Sun, 24 Jul 2016 06:05:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b3a3ba9-6b68-45aa-9320-19499d78bd12.jpg">]]></description>
+            <link>https://thegrid.ai/johnandellimilan/6d00e43b-a7fc-4826-9384-210b4c7eed7c/index.html</link>
+            <guid isPermaLink="false">6d00e43b-a7fc-4826-9384-210b4c7eed7c</guid>
+            <pubDate>Sun, 24 Jul 2016 06:05:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/johnandellimilan/03e07b66-f72c-488d-bc52-6f42f96359a2/index.html</link>
             <guid isPermaLink="false">03e07b66-f72c-488d-bc52-6f42f96359a2</guid>
             <pubDate>Sun, 24 Jul 2016 05:22:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8910e853-d0a2-400f-87be-e0ebf56caa7e.jpg">]]></description>
-            <link>https://thegrid.ai/johnandellimilan/69e8a1f6-175a-42e6-9aae-17e20a1890d8/index.html</link>
-            <guid isPermaLink="false">69e8a1f6-175a-42e6-9aae-17e20a1890d8</guid>
-            <pubDate>Sun, 24 Jul 2016 05:22:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
