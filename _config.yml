@@ -11,9 +11,13 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-name: Johnandellimilan
+name: John and Elli Milan
 navigation:
   - id: 'http://www.milanart.work'
     url: 'http://www.milanart.work'
     name: About
+    type: external
+  - id: 'https://www.instagram.com/johnandellimilan/'
+    url: 'https://www.instagram.com/johnandellimilan/'
+    name: Instagram
     type: external
