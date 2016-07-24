@@ -8,6 +8,13 @@
         <atom:link href="https://thegrid.ai/johnandellimilan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9eb9eeb2-3b1b-48c8-869d-b3acd1b6cce8.jpg">]]></description>
+            <link>https://thegrid.ai/johnandellimilan/7b8e6411-0ed2-4ca8-8e1c-61317e59fc66/index.html</link>
+            <guid isPermaLink="false">7b8e6411-0ed2-4ca8-8e1c-61317e59fc66</guid>
+            <pubDate>Sun, 24 Jul 2016 05:22:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed6931ac-0c0c-4b44-b065-bbb31eaf0edd.jpg">]]></description>
             <link>https://thegrid.ai/johnandellimilan/e4338c85-a2d5-4fc0-ae52-fc8f59bfcef8/index.html</link>
             <guid isPermaLink="false">e4338c85-a2d5-4fc0-ae52-fc8f59bfcef8</guid>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/johnandellimilan/9b29517f-ea4a-4d26-b072-0a97b1b16a96/index.html</link>
             <guid isPermaLink="false">9b29517f-ea4a-4d26-b072-0a97b1b16a96</guid>
             <pubDate>Sun, 24 Jul 2016 05:21:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1ec7c91-52df-4b7e-902e-ece89b0c5555.jpg">]]></description>
-            <link>https://thegrid.ai/johnandellimilan/4f0adcb7-ea45-4f7f-8038-c36bc6119a2c/index.html</link>
-            <guid isPermaLink="false">4f0adcb7-ea45-4f7f-8038-c36bc6119a2c</guid>
-            <pubDate>Sun, 24 Jul 2016 05:21:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
