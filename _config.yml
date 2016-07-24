@@ -1,17 +1,27 @@
-layout_spectrum: 0.864470346365124
-typography_spectrum: 0.2650086195208132
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.08968847
 color:
-  brandStrength: 0.176828951574862
-  lightness: 0.11673155380412936
-  saturation: 0.6858025374822319
-  rhythmicContrast: 0.8441196794155985
+  saturation: 0.8125672
+  brandStrength: 0.8920515
+  lightness: 0.754565
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-name: John and Elli Milan
+    - '#F8EED3'
+    - '#0F0E0A'
+    - '#2FB6B9'
+    - '#CA6A37'
+    - '#C01114'
+  rhythmicContrast: 0.7137486
 navigation:
   - id: 'http://www.milanart.work'
     url: 'http://www.milanart.work'
@@ -25,3 +35,5 @@ navigation:
     url: 'https://www.facebook.com/Milan-910719832357615/'
     name: Facebook
     type: external
+layout_spectrum: 0.2497315
+name: John and Elli Milan
