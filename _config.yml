@@ -12,3 +12,8 @@ color:
     - '#F4EEA9'
     - '#F4F482'
 name: Johnandellimilan
+navigation:
+  - id: 'http://www.milanart.work'
+    url: 'http://www.milanart.work'
+    name: About
+    type: external
