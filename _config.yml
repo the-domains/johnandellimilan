@@ -11,17 +11,17 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.6933405
-  brandStrength: 1
-  lightness: 0.6342642
+  saturation: 0.060538343619555235
+  brandStrength: 0.3517024302855134
+  lightness: 0.2814263254404068
   brandColors:
-    - '#0B0601'
-    - '#C8A472'
-    - '#CFCDB4'
-    - '#A9864F'
-    - '#5D3C10'
-  rhythmicContrast: 0.5354457
-typography_spectrum: 0.2508056
+    - '#6B0C22'
+    - '#D9042B'
+    - '#F4CB89'
+    - '#588C8C'
+    - '#011C26'
+  rhythmicContrast: 0.4624707279726863
+typography_spectrum: 0.485270997043699
 navigation:
   - id: 'http://www.milanart.work'
     url: 'http://www.milanart.work'
@@ -35,5 +35,5 @@ navigation:
     url: 'https://www.facebook.com/Milan-910719832357615/'
     name: Facebook
     type: external
-layout_spectrum: 0.9371642
+layout_spectrum: 0.41339622414670885
 name: John and Elli Milan
