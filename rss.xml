@@ -4,8 +4,15 @@
         <description><![CDATA[John and Elli Milan]]></description>
         <link>https://thegrid.ai/johnandellimilan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 09:05:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2016 09:23:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/johnandellimilan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Shine Your Art, Change The World ]]></title>
+            <description><![CDATA[<article><h1>Shine Your Art, Change The World </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c46784a-17d8-403d-ba71-44e9a8cf94ba.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c46784a-17d8-403d-ba71-44e9a8cf94ba.jpg</link>
+            <guid isPermaLink="false">19fe64d9-7576-4910-a54b-a9b72c123824</guid>
+            <pubDate>Wed, 27 Jul 2016 09:23:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e792da4-805e-4008-a7e6-4d1bda8a6c2b.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/johnandellimilan/a099543e-184d-4224-a99e-128c4465f886/index.html</link>
             <guid isPermaLink="false">a099543e-184d-4224-a99e-128c4465f886</guid>
             <pubDate>Sun, 24 Jul 2016 15:08:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/21f972b9-239b-4a57-9d9b-208b0cfee216.jpg">]]></description>
-            <link>https://thegrid.ai/johnandellimilan/f44fc563-7f90-4993-9966-93898635c0c9/index.html</link>
-            <guid isPermaLink="false">f44fc563-7f90-4993-9966-93898635c0c9</guid>
-            <pubDate>Sun, 24 Jul 2016 15:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
