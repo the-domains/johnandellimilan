@@ -1,15 +1,3 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
 typography_spectrum: 0.8888292
 color:
   saturation: 0.06053834361955523
@@ -22,18 +10,28 @@ color:
     - '#588C8C'
     - '#011C26'
   lightness: 0.2814263254404068
-navigation:
-  - id: 'http://www.milanart.work'
-    url: 'http://www.milanart.work'
-    name: About
-    type: external
-  - id: 'https://www.instagram.com/johnandellimilan/'
-    url: 'https://www.instagram.com/johnandellimilan/'
-    name: Instagram
-    type: external
-  - id: 'https://www.facebook.com/Milan-910719832357615/'
-    url: 'https://www.facebook.com/Milan-910719832357615/'
-    name: Facebook
-    type: external
 layout_spectrum: 0.2303974
 name: John and Elli Milan
+navigation:
+  - name: About
+    url: 'http://www.milanart.work'
+    type: external
+  - name: Instagram
+    url: 'https://www.instagram.com/johnandellimilan/'
+    type: external
+  - name: Facebook
+    url: 'https://www.facebook.com/Milan-910719832357615/'
+    type: external
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: Abstracted Surrealism
