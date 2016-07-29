@@ -1,4 +1,4 @@
-typography_spectrum: 0.8888292
+typography_spectrum: 0.2535291553940624
 color:
   saturation: 0.06053834361955523
   brandStrength: 0.3517024302855134
@@ -10,7 +10,7 @@ color:
     - '#588C8C'
     - '#011C26'
   lightness: 0.2814263254404068
-layout_spectrum: 0.2303974
+layout_spectrum: 0.4794936121907085
 name: John and Elli Milan
 navigation:
   - name: About
