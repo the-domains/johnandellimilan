@@ -4,8 +4,15 @@
         <description><![CDATA[The Art Renaissance]]></description>
         <link>https://thegrid.ai/johnandellimilan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 05:38:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2016 16:10:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/johnandellimilan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/db4e7aed-3e20-4212-a6f1-f830a658942d.jpg">]]></description>
+            <link>https://thegrid.ai/johnandellimilan/53b0bc69-8224-43cf-9f3c-7c4203394167/index.html</link>
+            <guid isPermaLink="false">53b0bc69-8224-43cf-9f3c-7c4203394167</guid>
+            <pubDate>Fri, 29 Jul 2016 16:10:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc94fb2b-f691-45ec-b147-bb42958e00a0.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/079fbc76-f309-4eba-a8d0-76667b80325e.jpg</link>
             <guid isPermaLink="false">9a41b211-522e-4aed-b6cb-87b09f7489f6</guid>
             <pubDate>Sun, 24 Jul 2016 19:59:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/afc88964-a94a-4857-a4df-9420cd12111c.jpg">]]></description>
-            <link>https://thegrid.ai/johnandellimilan/d8cb2efb-52c1-4b62-ab1b-2c437b90331a/index.html</link>
-            <guid isPermaLink="false">d8cb2efb-52c1-4b62-ab1b-2c437b90331a</guid>
-            <pubDate>Sun, 24 Jul 2016 19:06:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
