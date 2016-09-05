@@ -4,7 +4,7 @@
         <description><![CDATA[The Art Renaissance ]]></description>
         <link>https://thegrid.ai/johnandellimilan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 05:46:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 03:47:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/johnandellimilan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -54,13 +54,6 @@
             <link>https://thegrid.ai/johnandellimilan/efc4942f-8854-4242-a962-b95e5e0d486c/index.html</link>
             <guid isPermaLink="false">efc4942f-8854-4242-a962-b95e5e0d486c</guid>
             <pubDate>Wed, 27 Jul 2016 09:04:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/079fbc76-f309-4eba-a8d0-76667b80325e.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/079fbc76-f309-4eba-a8d0-76667b80325e.jpg</link>
-            <guid isPermaLink="false">9a41b211-522e-4aed-b6cb-87b09f7489f6</guid>
-            <pubDate>Sun, 24 Jul 2016 19:59:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
