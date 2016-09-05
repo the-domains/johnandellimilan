@@ -22,9 +22,6 @@ navigation:
   - name: Facebook
     url: 'https://www.facebook.com/Milan-910719832357615/'
     type: external
-  - name: Artwork
-    id: 9a41b211-522e-4aed-b6cb-87b09f7489f6
-    type: content
 collections:
   - index:
       path: /
