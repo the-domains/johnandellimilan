@@ -25,6 +25,9 @@ navigation:
   - name: Artwork
     id: 0bb188fa-189a-4e95-b7e2-d9279ba69719
     type: content
+  - name: Instagram
+    url: 'https://www.instagram.com/johnandellimilanart/'
+    type: external
 collections:
   - index:
       path: /
