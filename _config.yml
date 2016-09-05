@@ -1,4 +1,27 @@
-title: 'The Art Renaissance '
+typography_spectrum: 0.452739
+color:
+  saturation: 0.2690655
+  brandStrength: 0.0005370569
+  lightness: 0.5204082
+  brandColors:
+    - '#6B0C22'
+    - '#D9042B'
+    - '#F4CB89'
+    - '#588C8C'
+    - '#011C26'
+  rhythmicContrast: 0.4624707
+layout_spectrum: 0.09613316
+name: John and Elli Milan
+navigation:
+  - name: About
+    url: 'http://www.milanart.work'
+    type: external
+  - name: Instagram
+    url: 'https://www.instagram.com/johnandellimilan/'
+    type: external
+  - name: Facebook
+    url: 'https://www.facebook.com/Milan-910719832357615/'
+    type: external
 collections:
   - index:
       path: /
@@ -11,28 +34,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.2690655
-  brandStrength: 0.0005370569
-  lightness: 0.5204082
-  brandColors:
-    - '#6B0C22'
-    - '#D9042B'
-    - '#F4CB89'
-    - '#588C8C'
-    - '#011C26'
-  rhythmicContrast: 0.4624707
-typography_spectrum: 0.452739
+title: 'The Art Renaissance '
 description: 'Shine Your Art, Change The World'
-navigation:
-  - name: About
-    url: 'http://www.milanart.work'
-    type: external
-  - name: Instagram
-    url: 'https://www.instagram.com/johnandellimilan/'
-    type: external
-  - name: Facebook
-    url: 'https://www.facebook.com/Milan-910719832357615/'
-    type: external
-layout_spectrum: 0.09613316
-name: John and Elli Milan
