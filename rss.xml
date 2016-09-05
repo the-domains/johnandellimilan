@@ -4,7 +4,7 @@
         <description><![CDATA[The Art Renaissance ]]></description>
         <link>https://thegrid.ai/johnandellimilan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 05:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 05:26:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/johnandellimilan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,27 @@
             <link>https://thegrid.ai/johnandellimilan/100edc4b-87c3-452a-91f7-3ecdc4b3a4ce/index.html</link>
             <guid isPermaLink="false">100edc4b-87c3-452a-91f7-3ecdc4b3a4ce</guid>
             <pubDate>Fri, 02 Sep 2016 05:22:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5a64238a2740e8758f7914bbf7ee56b9/croprotate.jpg?cropheight=2216&cropwidth=2263&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F26b939ef-cdd6-4507-a5ae-31275ef2e325.jpg&x=0&y=0">]]></description>
+            <link>https://thegrid.ai/johnandellimilan/23697599-230e-497c-bb35-48120e8db11f/index.html</link>
+            <guid isPermaLink="false">23697599-230e-497c-bb35-48120e8db11f</guid>
+            <pubDate>Fri, 02 Sep 2016 05:26:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/321da59adbcf37f6a2516a1b60ad642d/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F71ef1bd0-da24-4a69-be33-f5415285d70b.jpg&x=0&y=0">]]></description>
+            <link>https://thegrid.ai/johnandellimilan/4c418f19-24d0-4735-b856-309e703fb8d9/index.html</link>
+            <guid isPermaLink="false">4c418f19-24d0-4735-b856-309e703fb8d9</guid>
+            <pubDate>Fri, 02 Sep 2016 05:25:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/21f972b9-239b-4a57-9d9b-208b0cfee216.jpg">]]></description>
+            <link>https://thegrid.ai/johnandellimilan/f44fc563-7f90-4993-9966-93898635c0c9/index.html</link>
+            <guid isPermaLink="false">f44fc563-7f90-4993-9966-93898635c0c9</guid>
+            <pubDate>Fri, 02 Sep 2016 05:25:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -54,27 +75,6 @@
             <link>https://thegrid.ai/johnandellimilan/d8cb2efb-52c1-4b62-ab1b-2c437b90331a/index.html</link>
             <guid isPermaLink="false">d8cb2efb-52c1-4b62-ab1b-2c437b90331a</guid>
             <pubDate>Fri, 02 Sep 2016 05:23:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[View From the Top]]></title>
-            <description><![CDATA[<article><h1>View From the Top</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffee5b6e-9526-4435-9fa1-0b77df70fe85.jpg"></article>]]></description>
-            <link>https://thegrid.ai/johnandellimilan/5c9b086f-2823-4c90-9136-52b7bff5694b/index.html</link>
-            <guid isPermaLink="false">5c9b086f-2823-4c90-9136-52b7bff5694b</guid>
-            <pubDate>Fri, 02 Sep 2016 04:09:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed001bca-a903-4554-a786-82caac34ee4c.jpg">]]></description>
-            <link>https://thegrid.ai/johnandellimilan/5ef4b06a-7396-43c0-b02e-66e19e21aef9/index.html</link>
-            <guid isPermaLink="false">5ef4b06a-7396-43c0-b02e-66e19e21aef9</guid>
-            <pubDate>Fri, 02 Sep 2016 04:08:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc94fb2b-f691-45ec-b147-bb42958e00a0.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc94fb2b-f691-45ec-b147-bb42958e00a0.jpg</link>
-            <guid isPermaLink="false">36893d49-0785-410f-931d-9ce9b2429d71</guid>
-            <pubDate>Fri, 02 Sep 2016 04:08:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
