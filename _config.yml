@@ -16,15 +16,15 @@ navigation:
   - name: About
     url: 'http://www.milanart.work'
     type: external
+  - name: Instagram
+    url: 'https://www.instagram.com/johnandellimilanart/'
+    type: external
   - name: Facebook
     url: 'https://www.facebook.com/Milan-910719832357615/'
     type: external
   - name: Artwork
     id: 0bb188fa-189a-4e95-b7e2-d9279ba69719
     type: content
-  - name: Instagram
-    url: 'https://www.instagram.com/johnandellimilanart/'
-    type: external
 collections:
   - index:
       path: /
