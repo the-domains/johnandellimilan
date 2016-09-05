@@ -11,6 +11,10 @@ color:
     - '#011C26'
   rhythmicContrast: 0.4624707
 layout_spectrum: 0.09613316
+author:
+  name: John Milan
+  email: johnmilan42@yahoo.com
+logo: null
 name: John and Elli Milan
 navigation:
   - name: About
