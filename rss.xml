@@ -4,7 +4,7 @@
         <description><![CDATA[The Art Renaissance ]]></description>
         <link>https://thegrid.ai/johnandellimilan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 05:24:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 05:24:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/johnandellimilan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/johnandellimilan/100edc4b-87c3-452a-91f7-3ecdc4b3a4ce/index.html</link>
             <guid isPermaLink="false">100edc4b-87c3-452a-91f7-3ecdc4b3a4ce</guid>
             <pubDate>Fri, 02 Sep 2016 05:22:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff50aa7f-1919-4a5f-9860-be6aad4b8609.jpg">]]></description>
-            <link>https://thegrid.ai/johnandellimilan/af8d7538-5289-487a-a544-f9e61fb53563/index.html</link>
-            <guid isPermaLink="false">af8d7538-5289-487a-a544-f9e61fb53563</guid>
-            <pubDate>Fri, 02 Sep 2016 05:24:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/johnandellimilan/04ff592e-0cdc-4729-b97b-1c39064f1168/index.html</link>
             <guid isPermaLink="false">04ff592e-0cdc-4729-b97b-1c39064f1168</guid>
             <pubDate>Wed, 27 Jul 2016 09:05:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/df4ebcc6-613d-4da6-8dc9-caaeb59b2f16.jpg">]]></description>
+            <link>https://thegrid.ai/johnandellimilan/efc4942f-8854-4242-a962-b95e5e0d486c/index.html</link>
+            <guid isPermaLink="false">efc4942f-8854-4242-a962-b95e5e0d486c</guid>
+            <pubDate>Wed, 27 Jul 2016 09:04:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
