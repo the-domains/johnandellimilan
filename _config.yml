@@ -16,9 +16,6 @@ navigation:
   - name: About
     url: 'http://www.milanart.work'
     type: external
-  - name: Instagram
-    url: 'https://www.instagram.com/johnandellimilan/'
-    type: external
   - name: Facebook
     url: 'https://www.facebook.com/Milan-910719832357615/'
     type: external
