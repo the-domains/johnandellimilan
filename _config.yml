@@ -1,7 +1,20 @@
-typography_spectrum: 0.452739
+title: 'The Art Renaissance '
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: 'Shine Your Art, Change The World'
 color:
   saturation: 0.2690655
-  brandStrength: 0.0005370569
+  brandStrength: 1
   lightness: 0.5204082
   brandColors:
     - '#6B0C22'
@@ -10,12 +23,6 @@ color:
     - '#588C8C'
     - '#011C26'
   rhythmicContrast: 0.4624707
-layout_spectrum: 0.09613316
-author:
-  name: John Milan
-  email: johnmilan42@yahoo.com
-logo: null
-name: John and Elli Milan
 navigation:
   - name: About
     url: 'http://www.milanart.work'
@@ -29,17 +36,10 @@ navigation:
   - name: Artwork
     id: 0bb188fa-189a-4e95-b7e2-d9279ba69719
     type: content
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-title: 'The Art Renaissance '
-description: 'Shine Your Art, Change The World'
+name: John and Elli Milan
+author:
+  name: John Milan
+  email: johnmilan42@yahoo.com
+logo: null
+typography_spectrum: 0.452739
+layout_spectrum: 0.09613316
